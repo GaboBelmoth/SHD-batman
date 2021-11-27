@@ -1,0 +1,19 @@
+{
+  "name": "batman",
+  "version": "1.0.0",
+  "description": "Ve los momentos mas intensos de batman contra el Joker.",
+  "main": "index.js",
+  "scripts": {
+    "start": "http-server -c -1 ."
+  },
+  "keywords": [
+    "batman",
+    "SHD",
+    "utcv"
+  ],
+  "author": "3023@utcv.edu.mx",
+  "license": "ISC",
+  "devDependencies": {
+    "http-server": "^13.0.2"
+  }
+}
